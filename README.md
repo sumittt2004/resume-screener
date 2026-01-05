@@ -20,16 +20,16 @@ An intelligent resume screening system that automatically ranks candidates, extr
 ## 📸 Screenshots
 
 ### Front
-![Front Page](screenshots/Front.png)
+![Front Page](Screenshot/Front.png)
 
 ### Result Dashboard
-![Dashboard](screenshots/Result%20dashboard.png)
+![Dashboard](Screenshot/Result%20dashboard.png)
 
 ### Candidate Detail
-![Candidate Detail](screenshots/Candidate%20Detail.png)
+![Candidate Detail](Screenshot/Candidate%20Detail.png)
 
-### Ai Interview
-![Ai Interview](screenshots/Ai%20interview.png)
+### AI Interview
+![AI Interview](Screenshot/Ai%20interview.png)
 
 
 ## ✨ Features
@@ -312,10 +312,6 @@ Contributions welcome! Please:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 8963eeebbf40158f33569cedb9af92e474f23560
 
 ## 🙏 Acknowledgments
 

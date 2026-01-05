@@ -312,7 +312,10 @@ Contributions welcome! Please:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8963eeebbf40158f33569cedb9af92e474f23560
 
 ## 🙏 Acknowledgments
 

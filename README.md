@@ -4,7 +4,7 @@ An intelligent resume screening system that automatically ranks candidates, extr
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![spaCy](https://img.shields.io/badge/spaCy-3.7+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ## 🎯 Problem Statement
 
@@ -298,9 +298,6 @@ Contributions welcome! Please:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 

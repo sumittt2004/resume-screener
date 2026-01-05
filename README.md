@@ -4,7 +4,6 @@ An intelligent resume screening system that automatically ranks candidates, extr
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![spaCy](https://img.shields.io/badge/spaCy-3.7+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 🎯 Problem Statement
 
@@ -17,6 +16,21 @@ An intelligent resume screening system that automatically ranks candidates, extr
 - Generate relevant interview questions
 
 **Time Saved**: Reduces screening time from hours to minutes!
+
+## 📸 Screenshots
+
+### Front
+![Front Page](screenshots/Front.png)
+
+### Result Dashboard
+![Dashboard](screenshots/Result%20dashboard.png)
+
+### Candidate Detail
+![Candidate Detail](screenshots/Candidate%20Detail.png)
+
+### Ai Interview
+![Ai Interview](screenshots/Ai%20interview.png)
+
 
 ## ✨ Features
 
@@ -298,9 +312,7 @@ Contributions welcome! Please:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📄 License
 
-MIT License - see [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
@@ -311,9 +323,9 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**Sumit Mishra**
+- GitHub: [@sumittt2004](https://github.com/sumittt2004)
+- LinkedIn: [Sumit Mishr](https://www.linkedin.com/in/mishra-sumit-/)
 
 ---
 
